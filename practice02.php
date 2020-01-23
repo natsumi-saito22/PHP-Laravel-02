@@ -1,6 +1,7 @@
 <?php
  echo 'hello php!';
  
+ //PHP02
  echo "\n";
  $a=3;
  $b=7;
@@ -39,3 +40,4 @@
 
 // 12月を表示する
 echo $calendar_2018["December"];
+
