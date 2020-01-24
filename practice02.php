@@ -12,9 +12,9 @@
  echo $array_month[7];
  
  echo "\n";
- $hello="Hello";
- $name .="Natsumi";
- $world .="'s world!";
+ $hello="Hello,";
+ $name ="Natsumi";
+ $world ="'s world!";
  echo $hello .$name .$world;
  
  echo "\n";
